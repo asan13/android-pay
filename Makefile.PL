@@ -6,6 +6,7 @@ WriteMakefile(
     AUTHOR          => 'Asyakin Andrey <asan999@gmail.com>',
     PREREQ_PM       => {
         CryptX      => 0,
+        JSON::XS    => 0,
     },
 );
 

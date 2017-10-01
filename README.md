@@ -1,4 +1,6 @@
 # android_pay_decrypt
 
-Рефлизация алгоритма расшифровки платежного токена, описанная здесь: 
-https://developers.google.com/android-pay/integration/payment-token-cryptography#decrypting-the-payment-token
+Реализация алгоритма расшифровки платежного токена Android Pay.
+
+
+[Decrypting the payment token](https://developers.google.com/android-pay/integration/payment-token-cryptography#decrypting-the-payment-token)
